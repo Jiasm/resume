@@ -21,12 +21,12 @@
 任职：前端/`Node.js`研发工程师  
 简述：公司的核心产品为`Blued`，一款垂直领域的移动社交软件。  
 
-**前期**使用`React`负责公司软件内`hybrid`页面的开发、运营活动，以及页面对应的接口。  
+前期使用`React`负责公司软件内`hybrid`页面的开发、运营活动，以及页面对应的接口。  
 参与公司内部后台的开发、并对公司内部web框架基于`koa2.x`进行了重构。  
 
-**中途**开始尝试小程序以及`ReactNative`在公司产品中的应用，使用`rn`替换了`iOS`版本的直播模块，使用小程序完成了一个公司内部创业的项目。  
+中途开始尝试小程序以及`ReactNative`在公司产品中的应用，使用`rn`替换了`iOS`版本的直播模块，使用小程序完成了一个公司内部创业的项目。  
 
-**后**将工作重心放在`Node.js`上，使用`koa`/`express`负责公司直播业务所有的`http`接口维护、开发。  
+后将工作重心放在`Node.js`上，使用`koa`/`express`负责公司直播业务所有的`http`接口维护、开发。  
 并对其中一个服务完成了重构，对代码进行优化，将高峰期平均2s的接口响应时长压缩至220ms。  
 
 ## 技术描述
@@ -38,6 +38,16 @@
 - 熟练使用koa、express框架，熟悉TCP/IP协议
 - 熟悉mysql、redis
 - 熟练使用bash命令，可在Linux环境下开发
+
+## 开源项目
+
+- [Router](https://github.com/Precursors/Router) 基于浏览器hash的一个路由组件，不依托于任何框架
+- [chrome-github-relationship](https://github.com/Jiasm/chrome-github-relationship) 一个chrome插件，用来更清晰地查看GitHub好友间的关系
+- [tetris](https://github.com/Jiasm/tetris) 一个简单的俄罗斯方块游戏的实现(`canvas`版本)
+- [shipit-better-deploy](https://github.com/bluedapp/shipit-better-deploy) 一个shipit部署的增强版，能够有效的减少大型项目在部署时因为fetch整个仓库而导致的时间过长
+- [hexo-theme-sheet](https://github.com/jiasm/hexo-theme-sheet) 一个自己做的hexo主题
+- [hexo-author](https://github.com/jiasm/hexo-author) 一个帮助多人合作维护博客的插件，会在hexo文章中插入创建者的GitHub信息
+- [react-native-pull](https://github.com/greatbsky/react-native-pull) 参与开发的一个RN组件
 
 ## 个人评价
 
