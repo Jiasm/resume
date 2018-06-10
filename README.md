@@ -41,7 +41,7 @@
 
 ## 开源项目
 
-- [Router](https://github.com/Precursors/Router) 基于浏览器hash的一个路由组件，不依托于任何框架
+- [router](https://github.com/Precursors/Router) 基于浏览器hash的一个路由组件，不依托于任何框架
 - [chrome-github-relationship](https://github.com/Jiasm/chrome-github-relationship) 一个chrome插件，用来更清晰地查看GitHub好友间的关系
 - [tetris](https://github.com/Jiasm/tetris) 一个简单的俄罗斯方块游戏的实现(`canvas`版本)
 - [shipit-better-deploy](https://github.com/bluedapp/shipit-better-deploy) 一个shipit部署的增强版，能够有效的减少大型项目在部署时因为fetch整个仓库而导致的时间过长
