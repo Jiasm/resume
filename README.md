@@ -37,7 +37,7 @@
 - 熟悉Electron、ReactNative和小程序
 - 熟练使用koa、express框架，熟悉TCP/IP协议
 - 熟悉mysql、redis
-- 熟练使用bash命令，可在Linux环境下开发
+- 熟练使用shell命令，可在Linux环境下开发
 
 ## 开源项目
 
