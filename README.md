@@ -34,7 +34,7 @@
 - 熟练使用CSS，持续关注新特性的更新
 - 掌握React、vue，平时更侧重React
 - 掌握原生JS，熟悉ES6并对其充满兴趣
-- 熟悉Electron、ReactNative和小程序，有实际的开发项目
+- 熟悉Electron、ReactNative和小程序
 - 熟练使用koa、express框架，熟悉TCP/IP协议
 - 熟悉mysql、redis
 - 熟练使用bash命令，可在Linux环境下开发
