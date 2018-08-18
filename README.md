@@ -56,7 +56,7 @@ __简述：__
 ## 开源项目
 
 项目|描述
-:-:|:-:
+:--|:--
 [router](https://github.com/Precursors/Router) |基于浏览器hash的一个路由组件，不依托于任何框架
 [chrome-github-relationship](https://github.com/Jiasm/chrome-github-relationship)|一个chrome插件，用来更清晰地查看GitHub好友间的关系
 [tetris](https://github.com/Jiasm/tetris)|一个简单的俄罗斯方块游戏的实现(`canvas`版本)
