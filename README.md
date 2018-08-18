@@ -20,8 +20,6 @@
 - 熟练使用MySQL、Redis，可完成日常CRUD
 - 熟练使用shell命令，可在Linux环境下开发
 
-----
-
 ## 工作经历
 
 ### 北京蓝城兄弟信息技术有限公司 *201603~至今*  
@@ -51,8 +49,6 @@ __简述：__
 > 公司主要做一款平台产品，用图形化界面来帮助非技术人员实现网站的搭建  
 - 本人主要负责其平台前端组件相关的开发。
 
-----
-
 ## 开源项目
 
 项目|描述
@@ -64,8 +60,6 @@ __简述：__
 [hexo-author](https://github.com/jiasm/hexo-author)|一个帮助多人合作维护博客的插件，会在hexo文章中插入创建者的GitHub信息
 [react-native-pull](https://github.com/greatbsky/react-native-pull)|参与开发的一个RN组件
 [typescript-example](https://github.com/jiasm/typescript-example)|一个基于`routing-controllers`和`sequelize-typescript`的Node项目套路  
-
-----
 
 ## 个人评价
 
