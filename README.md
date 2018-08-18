@@ -6,7 +6,7 @@
 :--|:--|:--|:--
 姓名|贾顺名|年龄|22
 工作年限|4|学历|大专
-求职意向|前端+Node|目前状态|不跳槽
+求职意向|前端+Node|目前状态|-
 手机号|18518471996|邮箱|jiashunming@outlook.com
 个人博客|https://blog.jiasm.org/|GitHub|https://github.com/jiasm 
 
