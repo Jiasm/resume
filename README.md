@@ -17,7 +17,7 @@
 - 熟练掌握React、了解vue.js
 - 熟悉Electron、ReactNative、微信公众号以及小程序
 - 熟练使用koa、express框架，读过源码且有过相关项目的优化
-- 熟练使用MySQL、Redis，可完成日常CRUD
+- 熟练使用MySQL、Redis，可完成日常CRUD
 - 熟练使用shell命令，可在Linux环境下开发
 
 ## 工作经历
