@@ -20,20 +20,27 @@
 - 熟练使用MySQL、Redis，可完成日常CRUD
 - 熟练使用shell命令，可在Linux环境下开发
 
+----
+
 ## 工作经历
 
 ### 北京蓝城兄弟信息技术有限公司 *201603~至今*  
 
 任职：前端/`Node.js`研发工程师  
 简述：公司的核心产品为`Blued`，一款垂直领域的移动社交软件。  
-前期使用`React`负责公司软件内`hybrid`页面的开发、运营活动，以及页面对应的接口。  
-参与公司内部后台的开发、并对公司内部web框架基于`koa2.x`进行了重构。  
-中途开始尝试小程序以及`ReactNative`在公司产品中的应用，使用`ReactNative`替换了`iOS`版本的直播模块，使用小程序完成了一个公司内部创业的项目。  
-后将工作重心放在`Node.js`上，使用`koa`/`Express`负责公司直播业务所有的`http`接口维护、开发。  
-并对其中一个服务完成了重构，对代码进行优化，将高峰期平均2s的接口响应时长压缩至220ms。  
-使用TypeScript重写了一个纯Node项目。  
-公司前端团队ESLint规则的制定：[NPM地址](https://www.npmjs.com/package/eslint-config-blued)
+使用`React`负责公司软件内`hybrid`页面的开发、运营活动，以及页面对应的接口。  
 
+参与公司内部后台的开发、并对公司内部web框架基于`koa2.x`进行了重构。  
+
+小程序以及`ReactNative`在公司产品中的应用，使用`ReactNative`替换了`iOS`版本的直播模块，使用小程序完成了一个公司内部创业的项目。  
+
+使用`koa`/`Express`负责公司直播业务所有的`http`接口维护、开发。  
+
+并对其中一个服务完成了重构，对代码进行优化，将高峰期平均2s的接口响应时长压缩至220ms。  
+
+使用TypeScript重写了一个纯Node项目。  
+
+公司前端团队ESLint规则的制定：[NPM地址](https://www.npmjs.com/package/eslint-config-blued)
 
 ### 北京神州安信科技有限公司 *201508~201603*
 
@@ -47,6 +54,7 @@
 任职：前端开发工程师  
 简述：公司主要做一款平台产品，用图形化界面来帮助非技术人员实现网站的搭建，本人主要负责其平台前端组件相关的开发。
 
+----
 
 ## 开源项目
 
@@ -57,6 +65,8 @@
 - [hexo-author](https://github.com/jiasm/hexo-author) 一个帮助多人合作维护博客的插件，会在hexo文章中插入创建者的GitHub信息
 - [react-native-pull](https://github.com/greatbsky/react-native-pull) 参与开发的一个RN组件
 - [typescript-example](https://github.com/jiasm/typescript-example) 一个基于`routing-controllers`和`sequelize-typescript`的Node项目套路  
+
+----
 
 ## 个人评价
 
