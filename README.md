@@ -57,7 +57,6 @@ __简述：__
 [chrome-github-relationship](https://github.com/Jiasm/chrome-github-relationship)|一个chrome插件，用来更清晰地查看GitHub好友间的关系
 [tetris](https://github.com/Jiasm/tetris)|一个简单的俄罗斯方块游戏的实现(`canvas`版本)
 [shipit-better-deploy](https://github.com/bluedapp/shipit-better-deploy)|一个shipit部署的增强版，能够有效的减少大型项目在部署时因为fetch整个仓库而导致的时间过长
-[hexo-author](https://github.com/jiasm/hexo-author)|一个帮助多人合作维护博客的插件，会在hexo文章中插入创建者的GitHub信息
 [react-native-pull](https://github.com/greatbsky/react-native-pull)|参与开发的一个RN组件
 [typescript-example](https://github.com/jiasm/typescript-example)|一个基于`routing-controllers`和`sequelize-typescript`的Node项目套路  
 
