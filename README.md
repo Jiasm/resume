@@ -6,19 +6,18 @@
 :--|:--|:--|:--
 姓名|贾顺名|
 工作年限|5|学历|大专（升本ing）
-求职意向|前端+Node|目前状态|-
+求职意向|Node.js|目前状态|在职
 手机号|18518471996|邮箱|jiashunming@outlook.com
 个人博客|https://blog.jiasm.org/|GitHub|https://github.com/jiasm 
 
 ## 技术描述
 
-- 熟练掌握`CSS`、掌握原生`JS`，熟悉`ES6`
-- 有过`FlowType`、`TypeScript`开发经验
-- 熟练掌握`React`、熟悉`ReactNative`、微信公众号以及小程序
 - 熟练使用`Koa`、`Express`框架，读过源码且有过相关项目的优化
 - 熟练使用`MySQL`、`Redis`，可完成日常CRUD
 - 熟练使用`shell`命令，可在`Linux`环境下开发
-- 熟悉`GO`
+- 熟练掌握`CSS`、掌握原生`JS`，熟悉`ES6`
+- 有过`FlowType`、`TypeScript`开发经验
+- 熟练掌握`React`、熟悉`ReactNative`、微信公众号以及小程序
 
 ## 工作经历
 
