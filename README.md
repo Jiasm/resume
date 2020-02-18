@@ -17,7 +17,7 @@
 - 熟练使用`shell`命令，可在`Linux`环境下开发
 - 熟练掌握`CSS`、掌握原生`JS`，熟悉`ES6`
 - 有过`FlowType`、`TypeScript`开发经验
-- 熟练掌握`React`、熟悉`ReactNative`、微信公众号以及小程序
+- 熟练掌握`React`、熟悉`ReactNative`、微信公众号以及小程序开发
 
 ## 工作经历
 
