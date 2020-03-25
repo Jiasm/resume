@@ -43,6 +43,9 @@ __主要工作：__
   - 制定`ESLint`规则、建立 code review 机制，提升团队代码质量
   - 梳理并规范开发流程，提升团队成员开发、协作效率
 
+__评优经历：__
+- 2017年度优秀员工
+- 2019年度优秀员工
 
 ### 北京神州安信科技有限公司 *201508~201603*
 
@@ -58,6 +61,16 @@ __任职：__ 前端开发工程师
 __简述：__  
 > 公司主要做一款平台产品，用图形化界面来帮助非技术人员实现网站的搭建  
 - 针对B端客户提供满足其需求的组件
+
+## 开源、知识分享
+
+- [TypeScript 前后端上手项目](https://github.com/Jiasm/typescript-example)
+- [JS版俄罗斯方块](https://github.com/Jiasm/tetris)
+- [JS版2048](https://github.com/Jiasm/2048)
+- [数组的遍历你都会用了，那Promise版本的呢](https://juejin.im/post/5ae0aee451882567244daaee)
+- [拿Proxy可以做哪些有意思的事儿](https://juejin.im/post/5b0642d36fb9a07ab5094acc)
+- [Javascript装饰器的妙用](https://juejin.im/post/5b41f76be51d4518f140f9e4)
+- [微任务、宏任务与Event-Loop](https://juejin.im/post/5b73d7a6518825610072b42b)
 
 ## 个人评价
 
