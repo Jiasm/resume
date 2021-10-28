@@ -4,7 +4,7 @@
 
 -|-|-|-
 :--|:--|:--|:--
-姓名|贾顺名|工作年限|5
+姓名|贾顺名|工作年限|7
 求职意向|Node.js|目前状态|在职
 手机号|18518471996|邮箱|jiashunming@outlook.com
 个人博客|https://blog.jiasm.org/|GitHub|https://github.com/jiasm 
