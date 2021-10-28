@@ -12,11 +12,12 @@
 ## 技术描述
 
 - 熟练使用`Koa`、`Express`框架，读过源码且有过相关项目的优化
-- 熟练使用`MySQL`、`Redis`、`Kafka`，完成日常开发
-- 熟练使用`shell`命令，在`Linux`环境下开发
-- 熟练掌握`CSS`、掌握原生`JS`，熟悉`ES6`
+- 熟练使用`MySQL`、`Redis`、`Kafka`、`RPC`，熟悉源码并进行过二次开发
+- 熟练使用`shell`，在`Linux`环境下开发
+- 熟悉 Node.js 源码，并进行过二次开发
+- 熟悉`CSS`、掌握原生`JS`，熟悉`ES6`
 - 有过`FlowType`、`TypeScript`开发经验
-- 熟练掌握`React`、熟悉`ReactNative`、微信公众号以及小程序开发
+- 早年接触过`React`、`ReactNative`、微信公众号以及小程序开发
 
 ## 工作经历
 
@@ -30,6 +31,7 @@ __简述：__
 - 负责司内 NPM 建设
 - 参与 knode（Node.js 运行时） 相关模块开发
 - 参与 knode 监控平台服务端开发
+- 参与 Service Mesh 架构建设
 - 维护司内前端/Node.js CI/CD 流程
 
 ### 滴滴 *20200526~20200709*
