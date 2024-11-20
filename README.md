@@ -8,7 +8,7 @@
 求职意向|Node.js|目前状态|在职
 手机号|18518471996|邮箱|jiashunming@outlook.com
 个人博客|https://juejin.cn/user/2172290705917127|GitHub|https://github.com/jiasm 
-学历|本科
+学历|本科|专业|计算机科学与技术
 
 ## 技术描述
 
